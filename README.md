@@ -8,7 +8,7 @@ You and your co-pilot are on a cross-country flight from New York to LA. You don
 
 ```ruby
 def pennsylvania
-  return "We're flying over Pennsylvania: Home of virtue, liberty, and independence! And delightful minimalist furniture!"
+  return "We're flying over Pennsylvania: Home of virtue, liberty, and independence!"
 end
 ``` 
 
