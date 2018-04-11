@@ -2,7 +2,7 @@
 
 ## Fly the Friendly Skies
 
-![pilot](https://s3.amazonaws.com/after-school-assets/pilot.jpg)
+<img src="https://curriculum-content.s3.amazonaws.com/KWK/lab-flyover-pilot.jpg" height="200" align="right" hspace="10" />
 
 You and your co-pilot are on a cross-country flight from New York to LA. You don't feel like talking to your passengers though, so you decide to write Ruby methods to announce each state as you fly over it. Here is an example of what one of your methods might look like:
 
