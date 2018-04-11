@@ -1,6 +1,6 @@
 
 
-##Fly the Friendly Skies
+## Fly the Friendly Skies
 
 ![pilot](https://s3.amazonaws.com/after-school-assets/pilot.jpg)
 
